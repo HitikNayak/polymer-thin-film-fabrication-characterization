@@ -11,7 +11,7 @@ The experimental work includes processing different polymer materials such as PV
 Glass substrates were prepared using a precision glass cutter (Utile FU-200). The cutting equipment provides controlled positioning and cutting of glass samples for subsequent fabrication processes.
 
 <p align="center">
-  <img src="images/01-glass-cutting.jpg" width="80%" alt="Precision glass cutting setup">
+  <img src="images/01-glass-cutting.jpeg" width="80%" alt="Precision glass cutting setup">
 </p>
 
 <p align="center"><b>Figure 1:</b> Precision glass cutting equipment used for substrate preparation.</p>
@@ -27,7 +27,7 @@ Different polymer materials were used for experimental work:
 The samples were prepared and organized separately for fabrication and characterization.
 
 <p align="center">
-  <img src="images/02-polymer-samples.jpg" width="80%" alt="PVA PVDF and PMMA samples">
+  <img src="images/02-polymer-samples.jpeg" width="80%" alt="PVA PVDF and PMMA samples">
 </p>
 
 <p align="center"><b>Figure 2:</b> Polymer samples prepared for experimental processing.</p>
@@ -46,7 +46,7 @@ The recorded experimental conditions included:
 Different processing conditions were considered for different polymer samples.
 
 <p align="center">
-  <img src="images/03-fabrication-process.jpg" width="80%" alt="Thin film fabrication laboratory setup">
+  <img src="images/03-fabrication-process.jpeg" width="80%" alt="Thin film fabrication laboratory setup">
 </p>
 
 <p align="center"><b>Figure 3:</b> Laboratory setup and sample handling during fabrication.</p>
@@ -63,7 +63,7 @@ The instrument was used to investigate electrical parameters such as:
 - Series capacitance (Cs)
 
 <p align="center">
-  <img src="images/04-hioki-lcr-meter.jpg" width="80%" alt="Hioki IM3536 LCR meter">
+  <img src="images/04-hioki-lcr-meter.jpeg" width="80%" alt="Hioki IM3536 LCR meter">
 </p>
 
 <p align="center"><b>Figure 4:</b> Hioki IM3536 LCR Meter used for electrical characterization.</p>
@@ -75,7 +75,7 @@ Capacitance measurements were recorded over a frequency range and analyzed using
 The Cp versus frequency graph was plotted to study the frequency-dependent capacitance behaviour of the sample.
 
 <p align="center">
-  <img src="images/05-cp-frequency-graph.jpg" width="90%" alt="Capacitance versus frequency graph">
+  <img src="images/05-cp-frequency-graph.jpeg" width="90%" alt="Capacitance versus frequency graph">
 </p>
 
 <p align="center"><b>Figure 5:</b> Experimental parallel capacitance (Cp) versus frequency plot.</p>
@@ -85,7 +85,7 @@ The Cp versus frequency graph was plotted to study the frequency-dependent capac
 Fabricated samples were handled using laboratory tweezers and measurement fixtures to facilitate electrical testing.
 
 <p align="center">
-  <img src="images/06-sample-characterization.jpg" width="80%" alt="Sample handling and characterization">
+  <img src="images/06-sample-characterization.jpeg" width="80%" alt="Sample handling and characterization">
 </p>
 
 <p align="center"><b>Figure 6:</b> Polymer sample handling during characterization.</p>
@@ -95,7 +95,7 @@ Fabricated samples were handled using laboratory tweezers and measurement fixtur
 A Keithley Source Measure Unit (SMU) and electrical measurement fixtures were used in the laboratory setup.
 
 <p align="center">
-  <img src="images/07-keithley-measurement-setup.jpg" width="90%" alt="Keithley SMU and measurement setup">
+  <img src="images/07-keithley-measurement-setup.jpeg" width="90%" alt="Keithley SMU and measurement setup">
 </p>
 
 <p align="center"><b>Figure 7:</b> Electrical measurement arrangement using Keithley instrumentation.</p>
