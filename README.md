@@ -1,5 +1,3 @@
-# polymer-thin-film-fabrication-characterization
-
 # Polymer Thin-Film Fabrication and Electrical Characterization
 
 ## Overview
