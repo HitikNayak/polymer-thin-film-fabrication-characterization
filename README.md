@@ -27,7 +27,7 @@ Different polymer materials were used for experimental work:
 The samples were prepared and organized separately for fabrication and characterization.
 
 <p align="center">
-  <img src="images/02-polymer-samples.jpeg" width="80%" alt="PVA PVDF and PMMA samples">
+  <img src="images/02-polymer-samples.png" width="80%" alt="PVA PVDF and PMMA samples">
 </p>
 
 <p align="center"><b>Figure 2:</b> Polymer samples prepared for experimental processing.</p>
